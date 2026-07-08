@@ -1,0 +1,1402 @@
+[
+  {
+    "templateId": "prompt_001",
+    "category": "Portrait",
+    "prompt": "Ultra realistic close-up studio portrait, soft Rembrandt lighting, shallow depth of field, dark charcoal background, subject wearing a cream turtleneck, freckles visible, shot on 85mm lens.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_01.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_002",
+    "category": "Portrait",
+    "prompt": "Cinematic golden hour portrait of a person leaning against a brick wall, warm rim light from the setting sun, film grain texture, shallow focus, muted orange and teal color grade.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_02.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_003",
+    "category": "Portrait",
+    "prompt": "Black and white editorial portrait, dramatic side lighting, high contrast, subject looking off camera, minimalist grey backdrop, fine art photography style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_03.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_004",
+    "category": "Portrait",
+    "prompt": "Vintage 1970s film photo aesthetic, subject wearing round sunglasses and a denim jacket, warm faded color tones, light film grain, soft vignette.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_04.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_005",
+    "category": "Portrait",
+    "prompt": "Moody rainy window portrait, subject seen through raindrop-covered glass, soft blue lighting, reflections blurred in the background, cinematic mood.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_05.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_006",
+    "category": "Portrait",
+    "prompt": "Close-up beauty portrait with glowing skin, soft diffused ring light, minimal makeup, pastel pink backdrop, glossy magazine cover style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_06.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_007",
+    "category": "Portrait",
+    "prompt": "Professional LinkedIn-style headshot, neutral grey background, soft even lighting, subject in a navy blazer, confident subtle smile, sharp focus on eyes.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_07.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_008",
+    "category": "Portrait",
+    "prompt": "Double exposure portrait blending a silhouette with a forest scene, dreamy overlay, teal and amber tones, artistic surreal composition.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_08.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_009",
+    "category": "Portrait",
+    "prompt": "High fashion portrait with dramatic studio strobe lighting, hard shadows, subject wearing bold red lipstick, glossy black backdrop, Vogue-style pose.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_09.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_010",
+    "category": "Portrait",
+    "prompt": "Soft natural light window portrait, subject sipping coffee at a wooden table, cozy morning atmosphere, warm cream and beige tones, lifestyle photography style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_10.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "portrait",
+      "realistic",
+      "studio"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_011",
+    "category": "Cinematic",
+    "prompt": "Wide cinematic shot of a lone figure walking down an empty neon-lit street at night, rain-soaked pavement reflecting pink and blue signage, anamorphic lens flare, Blade Runner atmosphere.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_11.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_012",
+    "category": "Cinematic",
+    "prompt": "Epic cinematic wide shot of a person standing on a cliff edge overlooking a stormy ocean, dramatic clouds, volumetric light rays breaking through, color graded like a movie poster.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_12.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_013",
+    "category": "Cinematic",
+    "prompt": "Cinematic still of a detective in a trench coat standing under a flickering streetlamp, thick fog, film noir lighting, high contrast black and white.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_13.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_014",
+    "category": "Cinematic",
+    "prompt": "Cinematic action freeze-frame of a person mid-run through a crowded market, motion blur on the background, dust particles in the air, warm desert color palette.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_14.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_015",
+    "category": "Cinematic",
+    "prompt": "Sweeping cinematic drone shot of a tiny figure standing in a vast golden wheat field at sunset, long shadows, warm orange sky, epic scale composition.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_15.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_016",
+    "category": "Cinematic",
+    "prompt": "Cinematic interrogation room scene, single hanging bulb light, deep shadows, dust particles floating in the beam, tense atmosphere, muted green tones.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_16.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_017",
+    "category": "Cinematic",
+    "prompt": "Cinematic shot of a person standing in front of a burning building at night, orange firelight illuminating their face, thick smoke, dramatic composition.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_17.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_018",
+    "category": "Cinematic",
+    "prompt": "Slow motion cinematic shot of fabric billowing in the wind on a mountaintop, golden hour backlight, soft lens flare, epic adventure movie style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_18.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_019",
+    "category": "Cinematic",
+    "prompt": "Cinematic underwater shot of a swimmer suspended in crystal clear turquoise water, sunlight rays piercing through the surface above, serene and dreamlike.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_19.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_020",
+    "category": "Cinematic",
+    "prompt": "Cinematic close-up of hands lighting a match in complete darkness, warm glow illuminating a face, high contrast, suspenseful mood.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_20.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "cinematic",
+      "film",
+      "dramatic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_021",
+    "category": "Fantasy",
+    "prompt": "Epic fantasy portrait of an elven warrior queen with silver armor and glowing blue runes, standing in an enchanted forest with floating fireflies, hyper detailed digital painting.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_21.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_022",
+    "category": "Fantasy",
+    "prompt": "A wizard's tower floating above the clouds at sunset, spiral staircases made of crystal, magical aurora sky, highly detailed fantasy concept art.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_22.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_023",
+    "category": "Fantasy",
+    "prompt": "Dragon perched on a mountain peak breathing a stream of golden fire into a stormy night sky, epic fantasy illustration, dramatic lighting.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_23.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_024",
+    "category": "Fantasy",
+    "prompt": "A mystical forest guardian made of glowing moss and tree bark, deer-like antlers covered in blooming flowers, soft bioluminescent lighting, fantasy digital art.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_24.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_025",
+    "category": "Fantasy",
+    "prompt": "Ancient library hidden inside a giant hollow tree, floating candles, magical glowing books, warm golden light, whimsical fantasy illustration.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_25.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_026",
+    "category": "Fantasy",
+    "prompt": "A knight standing before a massive ice castle under the northern lights, breath visible in the cold air, epic fantasy composition, cinematic lighting.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_26.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_027",
+    "category": "Fantasy",
+    "prompt": "Mermaid sitting on a moonlit rock surrounded by bioluminescent waves, iridescent scales shimmering, soft blue and purple color palette, fantasy realism.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_27.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_028",
+    "category": "Fantasy",
+    "prompt": "A phoenix rising from swirling embers against a dark night sky, feathers made of fire and light, hyper detailed, dramatic fantasy art.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_28.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_029",
+    "category": "Fantasy",
+    "prompt": "Steampunk airship sailing through a canyon of floating islands, brass gears and glowing engines, warm sunset sky, detailed fantasy concept art.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_29.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_030",
+    "category": "Fantasy",
+    "prompt": "A witch's cottage in an autumn forest, glowing pumpkins, swirling magical smoke from the chimney, cozy dark fantasy illustration style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_30.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fantasy",
+      "magic",
+      "digital-art"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_031",
+    "category": "Nature",
+    "prompt": "Breathtaking aerial view of a turquoise river winding through a dense green rainforest, morning mist rising above the canopy, ultra high resolution nature photography.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_31.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_032",
+    "category": "Nature",
+    "prompt": "Serene mountain lake reflecting snow-capped peaks at sunrise, perfectly still water, soft pink and orange sky, national geographic style photo.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_32.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_033",
+    "category": "Nature",
+    "prompt": "Macro photography of dew drops on a spider web at dawn, soft bokeh background, delicate detail, natural morning light.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_33.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_034",
+    "category": "Nature",
+    "prompt": "Vast sand dunes in the Sahara desert at golden hour, wind-carved ripple patterns, warm amber tones, minimalist composition.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_34.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_035",
+    "category": "Nature",
+    "prompt": "Northern lights dancing over a snow-covered pine forest, vivid green and purple aurora, long exposure night photography style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_35.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_036",
+    "category": "Nature",
+    "prompt": "Waterfall cascading through a lush moss-covered canyon, soft motion blur on the water, vibrant green ferns, tranquil natural scene.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_36.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_037",
+    "category": "Nature",
+    "prompt": "Field of lavender stretching to the horizon under a pastel sunset sky, rows leading the eye into the distance, dreamy soft focus.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_37.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_038",
+    "category": "Nature",
+    "prompt": "Dramatic storm clouds rolling over a golden wheat field, lightning strike in the distance, high contrast moody nature photography.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_38.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_039",
+    "category": "Nature",
+    "prompt": "Coral reef teeming with colorful fish photographed from above in crystal clear turquoise water, vibrant natural underwater scene.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_39.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_040",
+    "category": "Nature",
+    "prompt": "Ancient redwood forest with sunbeams piercing through the dense canopy, mist hovering near the forest floor, majestic and serene.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_40.png",
+    "isPremium": false,
+    "trending": false,
+    "tags": [
+      "nature",
+      "landscape",
+      "scenic"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_041",
+    "category": "Fashion",
+    "prompt": "High fashion editorial shot of a model in a flowing red silk gown walking through a marble palace hallway, dramatic natural light from tall windows.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_41.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_042",
+    "category": "Fashion",
+    "prompt": "Streetwear fashion photo, model wearing an oversized bomber jacket and chunky sneakers, urban graffiti wall background, gritty film grain aesthetic.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_42.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_043",
+    "category": "Fashion",
+    "prompt": "Avant-garde fashion portrait with sculptural headpiece made of feathers, bold studio lighting, high contrast shadows, editorial magazine style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_43.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_044",
+    "category": "Fashion",
+    "prompt": "Model walking a rain-soaked runway wearing a metallic trench coat, dramatic spotlight, reflections on the wet floor, high fashion show atmosphere.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_44.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_045",
+    "category": "Fashion",
+    "prompt": "Minimalist fashion editorial, model in all-white tailored suit standing against a stark white cyclorama background, soft even studio lighting.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_45.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_046",
+    "category": "Fashion",
+    "prompt": "Bohemian fashion shoot in a sunlit wheat field, model wearing a flowing floral dress, wind blowing through fabric, warm golden hour light.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_46.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_047",
+    "category": "Fashion",
+    "prompt": "Winter fashion editorial, model wearing a bold red wool coat standing in a snow-covered pine forest, crisp cold lighting, high fashion magazine style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_47.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_048",
+    "category": "Fashion",
+    "prompt": "Vintage 1960s fashion photo, model in a polka dot dress and cat-eye sunglasses posing next to a classic convertible car, warm retro color grade.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_48.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_049",
+    "category": "Fashion",
+    "prompt": "Futuristic fashion concept, model wearing an iridescent holographic outfit under neon studio lights, sleek and otherworldly editorial style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_49.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_050",
+    "category": "Fashion",
+    "prompt": "Elegant black tie fashion portrait, model in a fitted tuxedo dress standing on a grand staircase, dramatic chandelier lighting overhead.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_50.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "fashion",
+      "editorial",
+      "style"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_051",
+    "category": "Instagram Thumbnail",
+    "prompt": "Bold Instagram thumbnail design, bright gradient background in pink and purple, large punchy text space at center, glossy 3D icon accents, vibrant scroll-stopping style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_51.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_052",
+    "category": "Instagram Thumbnail",
+    "prompt": "Instagram Reels thumbnail mockup, split-frame composition with a close-up expressive face on one side and bold yellow highlight text area on the other, high energy vibe.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_52.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_053",
+    "category": "Instagram Thumbnail",
+    "prompt": "Clean minimal Instagram thumbnail template, soft pastel background, centered product silhouette, subtle drop shadow, plenty of negative space for a title overlay.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_53.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_054",
+    "category": "Instagram Thumbnail",
+    "prompt": "Trendy Instagram carousel cover thumbnail, neon outline shapes on a dark background, glowing accent lines framing an empty text zone, futuristic aesthetic.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_54.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_055",
+    "category": "Instagram Thumbnail",
+    "prompt": "Instagram thumbnail for a lifestyle vlog, warm golden hour tone, blurred cafe background, circular frame cutout for a portrait, modern rounded typography space.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_55.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_056",
+    "category": "Instagram Thumbnail",
+    "prompt": "Instagram Reels cover, dynamic diagonal color block layout in coral and teal, bold arrow graphic pointing to a call-to-action text box, energetic mood.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_56.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_057",
+    "category": "Instagram Thumbnail",
+    "prompt": "Instagram thumbnail with a glossy 3D emoji-style icon floating over a soft blurred bokeh background, bright colors, playful and eye-catching layout.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_57.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_058",
+    "category": "Instagram Thumbnail",
+    "prompt": "Fitness Instagram thumbnail template, high contrast gym background blurred, bold condensed text space at the top, motivational red and black color scheme.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_58.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_059",
+    "category": "Instagram Thumbnail",
+    "prompt": "Instagram thumbnail for a beauty tutorial, soft pink marble background, floating cosmetic product silhouettes, elegant serif text placeholder area.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_59.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_060",
+    "category": "Instagram Thumbnail",
+    "prompt": "Instagram thumbnail for a travel reel, vibrant tropical beach background slightly blurred, bold white outlined text space at center, sun flare accent.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_60.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "instagram",
+      "thumbnail",
+      "social-media"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_061",
+    "category": "YouTube Thumbnail",
+    "prompt": "YouTube thumbnail design, shocked facial expression close-up on the left, bold red arrow pointing to a highlighted object on the right, bright yellow outlined text space, high contrast colors.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_61.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_062",
+    "category": "YouTube Thumbnail",
+    "prompt": "Gaming YouTube thumbnail, explosive background with fire and smoke effects, character silhouette in the center, bold glowing text placeholder, saturated red and orange tones.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_62.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_063",
+    "category": "YouTube Thumbnail",
+    "prompt": "Tech review YouTube thumbnail, sleek dark background with a glowing product render centered, bold white and blue text space, clean modern layout.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_63.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_064",
+    "category": "YouTube Thumbnail",
+    "prompt": "Vlog YouTube thumbnail, candid lifestyle photo blurred background, large expressive face close-up, bright bold text box in the corner, warm color grade.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_64.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_065",
+    "category": "YouTube Thumbnail",
+    "prompt": "Tutorial YouTube thumbnail template, split-screen before-and-after layout, bold arrow in the middle, bright contrasting text space, clean flat design style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_65.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_066",
+    "category": "YouTube Thumbnail",
+    "prompt": "Cooking YouTube thumbnail, close-up of a delicious dish steaming on a wooden table, bold yellow highlighted text area, warm appetizing color tones.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_66.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_067",
+    "category": "YouTube Thumbnail",
+    "prompt": "Finance YouTube thumbnail, stock market chart background with green up-arrow graphics, bold dollar sign icon, dark navy background, bright text placeholder.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_67.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_068",
+    "category": "YouTube Thumbnail",
+    "prompt": "Reaction video YouTube thumbnail, exaggerated shocked expression close-up, comic-style burst graphic behind the subject, bold red text space, high energy layout.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_68.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_069",
+    "category": "YouTube Thumbnail",
+    "prompt": "Travel vlog YouTube thumbnail, stunning tropical landscape background, small inset circular portrait photo, bold white outlined text space, vibrant saturated colors.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_69.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_070",
+    "category": "YouTube Thumbnail",
+    "prompt": "Fitness YouTube thumbnail, dynamic workout action shot blurred motion, bold condensed text space at the top, red and black gym-style color scheme.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_70.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_071",
+    "category": "YouTube Thumbnail",
+    "prompt": "Movie review YouTube thumbnail, dramatic cinematic background with film reel graphic, star rating icons, bold yellow text placeholder, dark moody tones.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_71.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_072",
+    "category": "YouTube Thumbnail",
+    "prompt": "Unboxing YouTube thumbnail, product box opened with glowing highlight effect, bold arrow pointing at the item, bright clean background, large text space.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_72.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_073",
+    "category": "YouTube Thumbnail",
+    "prompt": "News commentary YouTube thumbnail, breaking news style red banner graphic, serious expression close-up, bold white bordered text box, high contrast layout.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_73.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_074",
+    "category": "YouTube Thumbnail",
+    "prompt": "DIY craft YouTube thumbnail, colorful craft supplies laid out on a table, bold cheerful text space, bright pastel background, playful flat design.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_74.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_075",
+    "category": "YouTube Thumbnail",
+    "prompt": "Music YouTube thumbnail, dramatic stage lighting silhouette of a performer, glowing neon text placeholder, deep purple and blue color palette.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_75.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_076",
+    "category": "YouTube Thumbnail",
+    "prompt": "Comedy skit YouTube thumbnail, exaggerated funny facial expression, comic pop-art style burst background, bold hand-drawn style text space.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_76.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_077",
+    "category": "YouTube Thumbnail",
+    "prompt": "Educational YouTube thumbnail, clean whiteboard style background with simple icons, bold blue text placeholder, minimal and friendly design.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_77.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_078",
+    "category": "YouTube Thumbnail",
+    "prompt": "Car review YouTube thumbnail, sleek sports car parked at sunset, bold speed-line graphics, large bold text space in the corner, dramatic lighting.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_78.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_079",
+    "category": "YouTube Thumbnail",
+    "prompt": "Beauty tutorial YouTube thumbnail, close-up half-face makeup transformation, bold pink text space, soft glam lighting, clean editorial layout.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_79.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_080",
+    "category": "YouTube Thumbnail",
+    "prompt": "Podcast clip YouTube thumbnail, two-person split frame layout with microphone icons, bold quote text placeholder, warm studio lighting background.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_80.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_081",
+    "category": "Brand & Product",
+    "prompt": "Premium product photography of a skincare bottle on a marble pedestal, soft studio lighting, clean white background, subtle shadow reflection, minimalist brand advertising style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_81.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_082",
+    "category": "Brand & Product",
+    "prompt": "E-commerce product shot of a pair of sneakers floating with dynamic dust particles, bold colored gradient background, dramatic studio lighting, high-end advertising style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_82.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_083",
+    "category": "Brand & Product",
+    "prompt": "Flat lay product photography of a coffee brand package surrounded by coffee beans and a ceramic cup, warm natural lighting, cozy brand aesthetic.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_83.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_084",
+    "category": "Brand & Product",
+    "prompt": "Luxury perfume bottle product shot with dramatic backlight and glass reflections, dark elegant background, minimal composition, high-end advertising style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_84.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_085",
+    "category": "Brand & Product",
+    "prompt": "Tech gadget product photography, smartphone floating above a reflective glass surface, soft blue studio lighting, clean modern background for brand campaign.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_85.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_086",
+    "category": "Brand & Product",
+    "prompt": "Product mockup of a cosmetic jar on a soft pastel podium, botanical leaf shadows cast on the background, natural clean beauty branding style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_86.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_087",
+    "category": "Brand & Product",
+    "prompt": "Fashion brand product shot of a handbag placed on a textured stone surface, soft directional light, neutral beige background, editorial commercial style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_87.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_088",
+    "category": "Brand & Product",
+    "prompt": "Food brand advertising photo of a snack package bursting with fresh ingredients flying around it, bright colorful studio background, dynamic commercial style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_88.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_089",
+    "category": "Brand & Product",
+    "prompt": "Minimalist product photography of a watch on a dark reflective surface, dramatic rim lighting, luxury brand advertising composition.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_89.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_090",
+    "category": "Brand & Product",
+    "prompt": "Beverage brand product shot, chilled bottle with condensation droplets, splashing liquid frozen in motion, vibrant colorful studio background, commercial advertising style.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_90.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "brand",
+      "product",
+      "advertising"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_091",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a Disney-Pixar 3D animated character style, large expressive eyes, soft rounded features, smooth cinematic studio lighting, vibrant colors.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_91.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_092",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a classic Japanese anime illustration style, clean cel-shaded lines, big glossy eyes, soft pastel color palette, dynamic hair highlights.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_92.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_093",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a Studio Ghibli inspired hand-painted animation style, soft watercolor textures, warm nostalgic lighting, whimsical background details.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_93.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_094",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a bold comic book style illustration, thick ink outlines, halftone dot shading, dramatic primary color palette, action panel composition.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_94.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_095",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a claymation stop-motion character style, textured clay surface, soft studio lighting, playful exaggerated proportions.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_95.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_096",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a retro 1980s cartoon style, flat bold colors, thick outlines, simplified shapes, nostalgic Saturday morning cartoon aesthetic.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_96.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_097",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a chibi cartoon style, oversized head, tiny body proportions, bright cheerful colors, cute simplified facial features.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_97.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_098",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a watercolor storybook illustration style, soft blended colors, hand-drawn outlines, gentle whimsical fairytale atmosphere.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_98.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_099",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a modern flat vector cartoon style, clean geometric shapes, bold flat color blocks, minimal shading, sleek digital illustration.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_99.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  },
+  {
+    "templateId": "prompt_100",
+    "category": "Animated Style",
+    "prompt": "Convert photo into a fantasy anime hero style, glowing magical aura effects, dynamic action pose, dramatic speed lines, vivid saturated colors.",
+    "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_100.png",
+    "isPremium": false,
+    "trending": true,
+    "tags": [
+      "animated",
+      "cartoon",
+      "style-transfer"
+    ],
+    "createdAt": "2026-07-06T06:49:39Z"
+  }
+]
