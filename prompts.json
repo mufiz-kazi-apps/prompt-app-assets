@@ -4,7 +4,7 @@
     "category": "Portrait",
     "prompt": "Ultra realistic close-up studio portrait, soft Rembrandt lighting, shallow depth of field, dark charcoal background, subject wearing a cream turtleneck, freckles visible, shot on 85mm lens.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_01.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "portrait",
