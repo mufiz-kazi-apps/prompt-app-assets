@@ -4,7 +4,7 @@
     "category": "Portrait",
     "prompt": "Ultra realistic close-up studio portrait, soft Rembrandt lighting, shallow depth of field, dark charcoal background, subject wearing a cream turtleneck, freckles visible, shot on 85mm lens.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_01.png",
-    "isPremium": true,
+    "isPremium": false,
     "trending": true,
     "tags": [
       "portrait",
@@ -116,7 +116,7 @@
     "category": "Portrait",
     "prompt": "High fashion portrait with dramatic studio strobe lighting, hard shadows, subject wearing bold red lipstick, glossy black backdrop, Vogue-style pose.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_09.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "portrait",
@@ -158,7 +158,7 @@
     "category": "Cinematic",
     "prompt": "Epic cinematic wide shot of a person standing on a cliff edge overlooking a stormy ocean, dramatic clouds, volumetric light rays breaking through, color graded like a movie poster.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_12.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "cinematic",
@@ -172,7 +172,7 @@
     "category": "Cinematic",
     "prompt": "Cinematic still of a detective in a trench coat standing under a flickering streetlamp, thick fog, film noir lighting, high contrast black and white.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_13.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "cinematic",
@@ -200,7 +200,7 @@
     "category": "Cinematic",
     "prompt": "Sweeping cinematic drone shot of a tiny figure standing in a vast golden wheat field at sunset, long shadows, warm orange sky, epic scale composition.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_15.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "cinematic",
@@ -242,7 +242,7 @@
     "category": "Cinematic",
     "prompt": "Slow motion cinematic shot of fabric billowing in the wind on a mountaintop, golden hour backlight, soft lens flare, epic adventure movie style.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_18.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "cinematic",
@@ -256,7 +256,7 @@
     "category": "Cinematic",
     "prompt": "Cinematic underwater shot of a swimmer suspended in crystal clear turquoise water, sunlight rays piercing through the surface above, serene and dreamlike.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_19.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "cinematic",
@@ -270,7 +270,7 @@
     "category": "Cinematic",
     "prompt": "Cinematic close-up of hands lighting a match in complete darkness, warm glow illuminating a face, high contrast, suspenseful mood.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_20.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "cinematic",
@@ -312,7 +312,7 @@
     "category": "Fantasy",
     "prompt": "Dragon perched on a mountain peak breathing a stream of golden fire into a stormy night sky, epic fantasy illustration, dramatic lighting.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_23.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "fantasy",
@@ -326,7 +326,7 @@
     "category": "Fantasy",
     "prompt": "A mystical forest guardian made of glowing moss and tree bark, deer-like antlers covered in blooming flowers, soft bioluminescent lighting, fantasy digital art.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_24.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "fantasy",
@@ -396,7 +396,7 @@
     "category": "Fantasy",
     "prompt": "Steampunk airship sailing through a canyon of floating islands, brass gears and glowing engines, warm sunset sky, detailed fantasy concept art.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_29.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "fantasy",
@@ -424,7 +424,7 @@
     "category": "Nature",
     "prompt": "Breathtaking aerial view of a turquoise river winding through a dense green rainforest, morning mist rising above the canopy, ultra high resolution nature photography.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_31.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "nature",
@@ -438,7 +438,7 @@
     "category": "Nature",
     "prompt": "Serene mountain lake reflecting snow-capped peaks at sunrise, perfectly still water, soft pink and orange sky, national geographic style photo.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_32.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "nature",
@@ -466,7 +466,7 @@
     "category": "Nature",
     "prompt": "Vast sand dunes in the Sahara desert at golden hour, wind-carved ripple patterns, warm amber tones, minimalist composition.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_34.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "nature",
@@ -480,7 +480,7 @@
     "category": "Nature",
     "prompt": "Northern lights dancing over a snow-covered pine forest, vivid green and purple aurora, long exposure night photography style.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_35.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "nature",
@@ -494,7 +494,7 @@
     "category": "Nature",
     "prompt": "Waterfall cascading through a lush moss-covered canyon, soft motion blur on the water, vibrant green ferns, tranquil natural scene.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_36.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "nature",
@@ -550,7 +550,7 @@
     "category": "Nature",
     "prompt": "Ancient redwood forest with sunbeams piercing through the dense canopy, mist hovering near the forest floor, majestic and serene.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_40.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "nature",
@@ -606,7 +606,7 @@
     "category": "Fashion",
     "prompt": "Model walking a rain-soaked runway wearing a metallic trench coat, dramatic spotlight, reflections on the wet floor, high fashion show atmosphere.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_44.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "fashion",
@@ -620,7 +620,7 @@
     "category": "Fashion",
     "prompt": "Minimalist fashion editorial, model in all-white tailored suit standing against a stark white cyclorama background, soft even studio lighting.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_45.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "fashion",
@@ -760,7 +760,7 @@
     "category": "Instagram Thumbnail",
     "prompt": "Instagram thumbnail for a lifestyle vlog, warm golden hour tone, blurred cafe background, circular frame cutout for a portrait, modern rounded typography space.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_55.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "instagram",
@@ -774,7 +774,7 @@
     "category": "Instagram Thumbnail",
     "prompt": "Instagram Reels cover, dynamic diagonal color block layout in coral and teal, bold arrow graphic pointing to a call-to-action text box, energetic mood.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_56.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "instagram",
@@ -844,7 +844,7 @@
     "category": "YouTube Thumbnail",
     "prompt": "YouTube thumbnail design, shocked facial expression close-up on the left, bold red arrow pointing to a highlighted object on the right, bright yellow outlined text space, high contrast colors.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_61.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "youtube",
@@ -970,7 +970,7 @@
     "category": "YouTube Thumbnail",
     "prompt": "Fitness YouTube thumbnail, dynamic workout action shot blurred motion, bold condensed text space at the top, red and black gym-style color scheme.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_70.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "youtube",
@@ -984,7 +984,7 @@
     "category": "YouTube Thumbnail",
     "prompt": "Movie review YouTube thumbnail, dramatic cinematic background with film reel graphic, star rating icons, bold yellow text placeholder, dark moody tones.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_71.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "youtube",
@@ -1040,7 +1040,7 @@
     "category": "YouTube Thumbnail",
     "prompt": "Music YouTube thumbnail, dramatic stage lighting silhouette of a performer, glowing neon text placeholder, deep purple and blue color palette.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_75.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "youtube",
@@ -1054,7 +1054,7 @@
     "category": "YouTube Thumbnail",
     "prompt": "Comedy skit YouTube thumbnail, exaggerated funny facial expression, comic pop-art style burst background, bold hand-drawn style text space.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_76.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "youtube",
@@ -1096,7 +1096,7 @@
     "category": "YouTube Thumbnail",
     "prompt": "Beauty tutorial YouTube thumbnail, close-up half-face makeup transformation, bold pink text space, soft glam lighting, clean editorial layout.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_79.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "youtube",
@@ -1152,7 +1152,7 @@
     "category": "Brand & Product",
     "prompt": "Flat lay product photography of a coffee brand package surrounded by coffee beans and a ceramic cup, warm natural lighting, cozy brand aesthetic.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_83.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "brand",
@@ -1180,7 +1180,7 @@
     "category": "Brand & Product",
     "prompt": "Tech gadget product photography, smartphone floating above a reflective glass surface, soft blue studio lighting, clean modern background for brand campaign.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_85.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "brand",
@@ -1194,7 +1194,7 @@
     "category": "Brand & Product",
     "prompt": "Product mockup of a cosmetic jar on a soft pastel podium, botanical leaf shadows cast on the background, natural clean beauty branding style.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_86.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "brand",
@@ -1222,7 +1222,7 @@
     "category": "Brand & Product",
     "prompt": "Food brand advertising photo of a snack package bursting with fresh ingredients flying around it, bright colorful studio background, dynamic commercial style.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_88.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "brand",
@@ -1264,7 +1264,7 @@
     "category": "Animated Style",
     "prompt": "Convert photo into a Disney-Pixar 3D animated character style, large expressive eyes, soft rounded features, smooth cinematic studio lighting, vibrant colors.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_91.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "animated",
@@ -1278,7 +1278,7 @@
     "category": "Animated Style",
     "prompt": "Convert photo into a classic Japanese anime illustration style, clean cel-shaded lines, big glossy eyes, soft pastel color palette, dynamic hair highlights.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_92.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "animated",
@@ -1292,7 +1292,7 @@
     "category": "Animated Style",
     "prompt": "Convert photo into a Studio Ghibli inspired hand-painted animation style, soft watercolor textures, warm nostalgic lighting, whimsical background details.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_93.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "animated",
@@ -1306,7 +1306,7 @@
     "category": "Animated Style",
     "prompt": "Convert photo into a bold comic book style illustration, thick ink outlines, halftone dot shading, dramatic primary color palette, action panel composition.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_94.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "animated",
@@ -1320,7 +1320,7 @@
     "category": "Animated Style",
     "prompt": "Convert photo into a claymation stop-motion character style, textured clay surface, soft studio lighting, playful exaggerated proportions.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_95.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "animated",
@@ -1334,7 +1334,7 @@
     "category": "Animated Style",
     "prompt": "Convert photo into a retro 1980s cartoon style, flat bold colors, thick outlines, simplified shapes, nostalgic Saturday morning cartoon aesthetic.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_96.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "animated",
@@ -1348,7 +1348,7 @@
     "category": "Animated Style",
     "prompt": "Convert photo into a chibi cartoon style, oversized head, tiny body proportions, bright cheerful colors, cute simplified facial features.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_97.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "animated",
@@ -1362,7 +1362,7 @@
     "category": "Animated Style",
     "prompt": "Convert photo into a watercolor storybook illustration style, soft blended colors, hand-drawn outlines, gentle whimsical fairytale atmosphere.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_98.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "animated",
@@ -1376,7 +1376,7 @@
     "category": "Animated Style",
     "prompt": "Convert photo into a modern flat vector cartoon style, clean geometric shapes, bold flat color blocks, minimal shading, sleek digital illustration.",
     "imageUrl": "https://raw.githubusercontent.com/mufiz-kazi-apps/prompt-app-assets/refs/heads/main/prompt_99.png",
-    "isPremium": false,
+    "isPremium": true,
     "trending": true,
     "tags": [
       "animated",
@@ -1482,7 +1482,7 @@
     "category": "Sci-Fi",
     "prompt": "A hyper-realistic 8K cinematic up-close photo performing an avatar bending stance outdoors, a swirling ring of all four elements earth air water and fire forming a dragon with claws whiskers and dramatic twists, natural physics elements.",
     "imageUrl": "https://cdn.bananaprompts.xyz/898c52b7-a3c2-49be-9368-a7289cc5b6e7/063b9812-7f53-4203-9273-13321079d003.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1495,7 +1495,7 @@
     "category": "Sci-Fi",
     "prompt": "Cinematic film still from the John Wick franchise, neo-noir aesthetic, hyper-detailed 8K, posed against a classic American muscle car, sharp all-black tailored suit, rain-slicked night alley with vibrant neon signage, anamorphic lens flares.",
     "imageUrl": "https://cdn.bananaprompts.xyz/c695cc01-8dc4-474f-b2ea-29388bec3ab3/1cf2ac37-525c-4754-bdb5-4958e997f82a.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1521,7 +1521,7 @@
     "category": "Sci-Fi",
     "prompt": "Create an ultra-realistic 3D selfie in 9:16 vertical aspect ratio with a T-800-style robot, typical iPhone selfie framing, apocalyptic scene with other T-800-style robots, subtle motion blur, authentic phone-photo look rather than professional DSLR.",
     "imageUrl": "https://cdn.bananaprompts.xyz/f4f238cc-bb8e-4716-bfde-51c2718d5984/964ff6a2-fe0b-46df-8c6b-05e52e38fc9c.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1572,7 +1572,7 @@
     "category": "Sci-Fi",
     "prompt": "A full-body profile standing on stark concrete, hunched and contemplative, left half of the body actively disintegrating into particles and smoke, massive glowing halo shaped like a skull behind, cinematic high-contrast lighting, monochromatic palette with golden-amber glow.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/9e9aa751-162f-4e0d-9b44-1225c7aac2dc/1767415453296-886lhhy5iec.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1676,7 +1676,7 @@
     "category": "Sci-Fi",
     "prompt": "Highly realistic fantasy portrait as a medieval warrior standing in a snowy battlefield, thick black fur cloak over dark armor, holding a large longsword vertically point down to the ground, snowflakes falling, cold cinematic heroic yet solemn atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/84adaccc-427d-4823-be3e-1ee7016e3db2/edb5be33-8353-4098-8e9b-cfee97c98fd1.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1689,7 +1689,7 @@
     "category": "Sci-Fi",
     "prompt": "Hyper-realistic cinematic full-body side profile of an athletic sprinter launching from starting blocks, body partially dissolving into moving beams of kinetic energy, gold and orange particles radiating from feet, teal and cyan light trails, dramatic contour lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/f4f238cc-bb8e-4716-bfde-51c2718d5984/3ae474a1-166b-4694-b9dd-154d8e64535e.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1702,7 +1702,7 @@
     "category": "Sci-Fi",
     "prompt": "Imagem 4K hiper-realista de um homem estiloso na escada de um jato particular de luxo, oculos escuros Ray-Ban pretos, jaqueta azul-marinho de camurca, jato metalico brilhante ao fundo, ceu limpo e azul, luz suave do sol natural, sofisticacao moderna.",
     "imageUrl": "https://cdn.bananaprompts.xyz/f018801d-05ec-4b6b-a7a7-ef221c8e944f/1b58726e-0fc4-4473-b013-f32fd8533643.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1715,7 +1715,7 @@
     "category": "Sci-Fi",
     "prompt": "Melhor imagem do mundo, nao tem igual explicativo e o melhor.",
     "imageUrl": "https://cdn.bananaprompts.xyz/29529fca-e570-4e7b-83dc-a5870ec7c253/0117fb0e-612a-41b8-81e3-cc7d6d85baa8.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1754,7 +1754,7 @@
     "category": "Sci-Fi",
     "prompt": "Soldado em uniforme de combate camuflado do Exercito Brasileiro em primeiro plano durante um ataque militar com tanques de guerra ao fundo, capacete de combate moderno, fuzil de assalto tipo IMBEL A2, colete tatico, expressao seria e cordial.",
     "imageUrl": "https://cdn.bananaprompts.xyz/c80211d7-e927-4493-b30f-bb4bbe28563f/b7514fb4-3839-4b10-bbd0-bb979bb9b56c.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1780,7 +1780,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic 8K portrait of a stylish person deeply engrossed in a smartphone, glowing app icons like Instagram WhatsApp Facebook YouTube Threads Music and Mail floating around connected by luminous flowing digital wires, trendy jacket, wireless headphones.",
     "imageUrl": "https://cdn.bananaprompts.xyz/68155dad-d783-427e-bb9e-b7254480bf27/be2c2f61-42e5-40b2-9a4a-a838f5d2f642.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1793,7 +1793,7 @@
     "category": "Sci-Fi",
     "prompt": "Transform the person into a realistic version of Neo from The Matrix, stylish dark sunglasses, long black leather trench coat, dark atmospheric Matrix-style environment, dramatic lighting with defined shadows, photorealistic high-resolution film-like quality.",
     "imageUrl": "https://cdn.bananaprompts.xyz/d0925e6f-5365-4ece-b858-2f1e14fcf654/aa6f07f8-4355-4914-b25e-7d2492e25130.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1806,7 +1806,7 @@
     "category": "Sci-Fi",
     "prompt": "BelchiorTravels: fala conosco agora e agenda a tua viagem.",
     "imageUrl": "https://cdn.bananaprompts.xyz/aa14aa90-8d1d-42b7-b753-7b466d1125a3/a47c07c9-a902-48cd-8c00-5ab00caf3eb4.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi"
@@ -1831,7 +1831,7 @@
     "category": "Sci-Fi",
     "prompt": "Fotografia hiperrealista con estetica cinematografica retro de los anos 80 evocando el universo visual de Back to the Future, chaqueta de cuero envejecido, jeans azules, monopatin, junto a Marty McFly con boombox, DeLorean brillando bajo el sol californiano.",
     "imageUrl": "https://cdn.bananaprompts.xyz/061276f7-260c-46af-b9cb-7bb63cf9a231/ce26e5d5-2bd2-45e8-a703-b03ea84e92c6.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1844,7 +1844,7 @@
     "category": "Sci-Fi",
     "prompt": "Retrato de estudio em close-up com estilo de maquiagem e cabelo arrojado, posando com uma grande cobra de padroes amarelos e pretos, mood de alta moda e fantasia, iluminacao suave e difusa, fundo cinza escuro solido, blusa de tule preto transparente.",
     "imageUrl": "https://cdn.bananaprompts.xyz/12011f83-2f11-4890-8111-a4fb50fd9dcb/cb07e19b-9a56-4c5f-8295-efdc9bebb721.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1857,7 +1857,7 @@
     "category": "Sci-Fi",
     "prompt": "Utiliza esta foto para crear una imagen de un androide hiperrealista con torso humano musculoso y partes mecanicas visibles en brazos, abdomen y piernas, conectado con cables engranajes y componentes tecnologicos internos, laboratorio futurista, tecnico ajustando piezas.",
     "imageUrl": "https://cdn.bananaprompts.xyz/74a5666e-e5d7-4a10-88d9-5f7fd1f406f0/34cb81df-565a-4ac9-a4a7-7e85dd73fffb.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi"
@@ -1869,7 +1869,7 @@
     "category": "Sci-Fi",
     "prompt": "Berpakaian hitam duduk di kursi kayu klasik, rambut panjang tertiup angin lembut, latar belakang api dan percikan bara berwarna merah keemasan, atmosfer dramatis dan berani, pencahayaan sinematik dengan cahaya merah dari bawah, 9:16, 8K UHD, ultra realistic.",
     "imageUrl": "https://cdn.bananaprompts.xyz/f5b8142b-07f2-4841-877a-faa43ba7d3c8/428c1954-32b5-4998-8957-9f7fd2dc3c75.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1895,7 +1895,7 @@
     "category": "Sci-Fi",
     "prompt": "Superheroe de pie sobre un rascacielos al atardecer, traje azul oscuro con textura metalica y detalles dorados, emblema rojo y dorado en forma de S, capa roja ondeando, ciudad moderna iluminada al fondo, estilo cinematografico hiperrealista, atmosfera epica.",
     "imageUrl": "https://cdn.bananaprompts.xyz/74a5666e-e5d7-4a10-88d9-5f7fd1f406f0/64d7e158-3b79-47b5-a5e5-df18711629dd.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1920,7 +1920,7 @@
     "category": "Sci-Fi",
     "prompt": "Concept art para um jogo de acao futurista, guerreiro indigena high-tech com armadura organica e circuitos bioluminescentes, montado em um jaguar robotico blindado, floresta Amazonica cibernetica ao entardecer, rios de dados digitais fluindo como neon azul.",
     "imageUrl": "https://cdn.bananaprompts.xyz/6a976853-0247-4b87-b002-3003ad97f44b/aeadb87a-7029-4492-881b-461b590f2c6d.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1958,7 +1958,7 @@
     "category": "Sci-Fi",
     "prompt": "Dramatic ultra-realistic close-up in black and white with high-contrast cinematic side lighting, round reflective sunglasses reflecting a city's towering skyline, minimalist black background, mysterious atmosphere, details in 4K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/2db0cc08-9e83-4af7-b268-1d336c6b79b6/1771157641079-kbcjtxckm6d.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -1971,7 +1971,7 @@
     "category": "Sci-Fi",
     "prompt": "Realistic ultra-detailed 4K portrait sitting relaxed in an armchair with a hand touching the chin, girlfriend standing beside with an arm softly resting, elegant traditional Hausa outfit with richly textured shadda and hula kube cap, soft natural lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/41c98e9b-fb12-413a-8e61-78ef562d4053/1765468872440-q9nngfmjdwa.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2023,7 +2023,7 @@
     "category": "Sci-Fi",
     "prompt": "Un hombre con barba y cabello corto es capturado en un impactante retrato con dramatica iluminacion bicolor, rostro dividido entre luz azul fria y tono rosa/rojo vibrante, expresion pensativa, mano en la barbilla, fondo oscuro indistinto.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/58fb1545-0b5a-40b5-ad20-a9567dbdefc9/1766796780505-ne6bremnui.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2088,7 +2088,7 @@
     "category": "Sci-Fi",
     "prompt": "Highly detailed anime background illustration of a dreamy Japanese neighborhood in the early morning, small corner bookstore with red signage beneath tall buildings, sunlight glowing softly, blue sports car parked on the street, Makoto Shinkai and Ghibli aesthetics.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a0b38264-ad08-47d7-89ef-b9d6732bb336/1766247622827-5rf2g2nrraa.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2101,7 +2101,7 @@
     "category": "Sci-Fi",
     "prompt": "Retrato editorial de alta costura 8K, controlando uma esfera mistica de energia com efeitos de raios em uma sala de aula vazia, raios azuis artificiais irradiando do teto, iluminacao natural das janelas contrastando com efeitos digitais sobrepostos, atmosfera de fantasia.",
     "imageUrl": "https://cdn.bananaprompts.xyz/dcfb2b70-2196-4d96-a492-ea98d9ee69e6/2af9c47a-cf17-48f5-afc8-e01eb2899b00.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi"
@@ -2126,7 +2126,7 @@
     "category": "Sci-Fi",
     "prompt": "Retrato cinematografico encostado em uma parede de tijolos iluminada por neon na cidade a noite, jaqueta de couro escura justa, placas de neon vermelho e azul lancando brilhos dramaticos no rosto, vapor subindo do bueiro, vibracao ousada e moderna.",
     "imageUrl": "https://cdn.bananaprompts.xyz/d76bb2d2-4bbc-43c8-b7d5-c23d63fae082/f1c34bb4-a67e-4e5b-9428-6f88f3d612f0.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi"
@@ -2164,7 +2164,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic 4K cinematic photograph of a curvy woman standing in a vast mountain valley at golden hour, flowing burgundy skirt and cream off-shoulder sweater, breathtaking realistic fantasy landscape inspired by The Lord of the Rings with a castle on a distant hill.",
     "imageUrl": "https://cdn.bananaprompts.xyz/3f9038ed-6906-4a1a-bc6c-bff4d4f3b32c/42b76988-0d78-4b46-95d8-0b4fb7880353.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2177,7 +2177,7 @@
     "category": "Sci-Fi",
     "prompt": "Fotografia ultra realista sentado sobre la superficie de la Luna sosteniendo una taza de cafe blanca, silla plegable metalica, vista impresionante del planeta Tierra vista desde la Luna con luces nocturnas del continente americano, iluminacion realista 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/74a5666e-e5d7-4a10-88d9-5f7fd1f406f0/2e2faa39-e79e-4e2e-a4ae-9397dea78e6a.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi"
@@ -2189,7 +2189,7 @@
     "category": "Sci-Fi",
     "prompt": "Hyperrealistic cinematic shot inside a dark movie theater filled with multiple versions of Michael Jackson from different eras interacting energetically, main character seated in the center holding a popcorn bucket, cinematic lighting from the movie screen, nostalgic energetic mood.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/673f28f8-bade-436f-8e0c-454eb8fd43be/1776856861048-urt8ek6ucv9.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2253,7 +2253,7 @@
     "category": "Sci-Fi",
     "prompt": "Lean muscular athletic man shirtless standing in dark water at night reaching his waist, holding a flaming torch in his right hand illuminating his body with a warm flickering glow, dramatic cinematic lighting, hyper-realistic, adventure theme, 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a4a15838-e341-43c8-baf2-b808e4561643/1769310137163-ameze5ychve.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2303,7 +2303,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic vertical 9:16 extreme close high-fashion portrait as Aphrodite with absolute facial identity preservation, luxury ritual vessel with a glowing heart-shaped pink core, volumetric pink smoke with heart-shaped vapor forms, burning orange sunset, marble columns.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/dcfb2b70-2196-4d96-a492-ea98d9ee69e6/1769725258968-gi6lxpdg6l6.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2342,7 +2342,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic live-action cinematic movie still, sprint race frozen one instant before the start, two runners aligned at the starting line, human athlete based on reference identity alongside The Flash, cohesive lighting and unified color grading, physically consistent realism.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/745c11a9-5dd3-4522-aa5d-1a323634c6f3/1768162385132-g7y6u4tw9pl.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2368,7 +2368,7 @@
     "category": "Sci-Fi",
     "prompt": "Tight cinematic close-up mythological warrior portrait, matte black Spartan/Greek-inspired armor, massive Corinthian-style helmet crest twice the standard size and width, Roman-inspired gold torque necklace, heavy volumetric fog, deep steel-blue cold epic depth atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/dcfb2b70-2196-4d96-a492-ea98d9ee69e6/1770885659755-awg63kx717d.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2420,7 +2420,7 @@
     "category": "Sci-Fi",
     "prompt": "Surreal cinematic art, black baseball cap, entire head and shoulders sculpted from sand or solid clay in the dramatic moment of an explosion, eyes tightly closed mouth wide open in a primal scream, cracked debris flying, hyperrealistic surreal high intensity mood.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/b2b3cf14-caaf-4320-948a-e92897db31a3/1765116562561-zzunvqaqsp.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2433,7 +2433,7 @@
     "category": "Sci-Fi",
     "prompt": "Male figure partially cyborg in a dramatic composition, diagonal tilt heightening drama, smoke and fog effects suggesting disintegration and transformation, robotic elements implanted in head and arm, light-colored tank top, elaborate tattoo, serious melancholic expression.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/dcfb2b70-2196-4d96-a492-ea98d9ee69e6/1769431830288-zdhd4cqs9v.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2446,7 +2446,7 @@
     "category": "Sci-Fi",
     "prompt": "9:16 vertical ultra-realistic 3D selfie with an iPhone front camera, standing next to a Yautja Predator without its mask, both facing camera and giving a thumbs-up, futuristic metallic spaceship corridor reminiscent of the Predator mothership, warm backlighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/07e0dbeb-3f38-4a0f-b5d2-df10125202d2/79dd25f5-819d-40d3-81d7-cb09fef7fd13.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2459,7 +2459,7 @@
     "category": "Sci-Fi",
     "prompt": "Seorang pria dewasa berlutut rendah di tanah neraka yang hancur, satu tangan menghantam tanah dengan kekuatan brutal, kulit tubuh terkoyak oleh retakan magma bercahaya merah menyala, roh naga api raksasa muncul di belakangnya, suasana dark fantasy neraka merah pekat.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/b2b3cf14-caaf-4320-948a-e92897db31a3/1766707141352-aotoeqcondo.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2472,7 +2472,7 @@
     "category": "Sci-Fi",
     "prompt": "RETAIN 100% IDENTICAL FACE, EXACT SAME EYES, NOSE, LIPS, SKIN TEXTURE, FRECKLES, EYEBROWS, FACIAL STRUCTURE FROM REFERENCE PHOTO -- DO NOT CHANGE THE FACE.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a19e106b-fcad-49e7-b89b-7d7255f4f5aa/1774889590520-le2i3jo9mb.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2485,7 +2485,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-detailed cinematic fantasy portrait standing in a vast galaxy environment filled with swirling nebula clouds and luminous constellations, looking back over the shoulder, dress formed entirely from living stardust and flowing nebula light, ethereal 8K resolution.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/5e7834f6-f55a-494b-be1b-24422918ffe6/1771438539577-tady1wzp44t.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2537,7 +2537,7 @@
     "category": "Sci-Fi",
     "prompt": "Hyper-real minimalist studio scene, stylish young person standing casually on the glass screen of an oversized smartphone laying on a warm beige backdrop, loose white camp-collar shirt, black shorts, white sneakers, silver over-ear headphones, black sunglasses.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/44410d25-74a8-421b-951f-7d6e42a15faa/1762977755737-2625bokgcetg.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2576,7 +2576,7 @@
     "category": "Sci-Fi",
     "prompt": "Powerful cinematic portrait in the style of Netflix's Supacell key art, centered determined slightly brooding expression, dark modern hoodie, halo of pulsing soft energy in deep blue or purple, gritty shadowy urban streets with futuristic energy particles.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a53334f9-1b24-4d43-981a-408f55aa6ad5/1768326907925-os2jpfazca8.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2602,7 +2602,7 @@
     "category": "Sci-Fi",
     "prompt": "Hyper-realistic behind-the-scenes photo lit by bright studio lights, film studio with a man-made jungle prop for Predator: Badlands, directing script style while talking to a Predator character, camera crew setting up equipment, 8K resolution, 9:16 aspect ratio.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/77fab107-9f6c-44c3-b32a-9a84d88c31dd/1764350676200-at3brhwoy1n.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2628,7 +2628,7 @@
     "category": "Sci-Fi",
     "prompt": "Composicion digital con dos personas en posiciones opuestas, recuadro central representando la interfaz de Instagram con su diseno caracteristico, fondo limpio y moderno estilo grafico minimalista, iluminacion equilibrada y colores vivos, diseno simetrico vista frontal.",
     "imageUrl": "https://cdn.bananaprompts.xyz/74a5666e-e5d7-4a10-88d9-5f7fd1f406f0/39f77935-3565-4d00-b86b-dbc485f1aeb9.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2641,7 +2641,7 @@
     "category": "Sci-Fi",
     "prompt": "Hyper-realistic 8K ultra-wide low-angle shot walking through a modern neon-lit city street that is digitally fracturing, crisp white t-shirt and blue denim jeans, left arm and shoulder dissolving into glowing blue 3D pixels and digital voxels, moody cyberpunk teal-orange lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/dcfb2b70-2196-4d96-a492-ea98d9ee69e6/1770965199631-1crvfesbkzc.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2679,7 +2679,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic cinematic portrait standing in a dark misty forest with a massive black wolf positioned closely behind, dark checkered suit with black turtleneck and round black sunglasses, foggy moody forest background, dramatic low-key rim lighting, luxury portrait photography.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/dcfb2b70-2196-4d96-a492-ea98d9ee69e6/1770883984692-a7bhyii5l1.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2730,7 +2730,7 @@
     "category": "Sci-Fi",
     "prompt": "Futuristic conceptual portrait of a serene male human-cyborg in a slight three-quarter angle, white hair flowing softly, glowing blue eyes, sleek high-tech exosuit in deep black piano finish, radiant blue energy core glowing at the chest, vivid blue sky background.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/2ca723ec-56ef-413f-bc77-4b5b2705883a/1771028437987-vsnrivr036k.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2769,7 +2769,7 @@
     "category": "Sci-Fi",
     "prompt": "Digitally rendered medium close-up portrait posing outdoors in a snowy mountainous landscape, fantasy-inspired warrior-like outfit with black faux leather corset and brown fur mantle, thigh-high stockings, glacier and gothic fortress in the blurred background, cold winter atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/c31b9227-18fc-4c3e-a4fc-53016bb935ea/1774549080819-ok6iz9dn4ul.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2782,7 +2782,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic portrait in Victorian Christmas style, intricate turquoise and gold doll-inspired outfit with lace and ruffle details, large decorative top hat with feathers, seated on a low platform with knees bent, large antique clock face and Christmas lights background.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/dcfb2b70-2196-4d96-a492-ea98d9ee69e6/1769676704219-tjq9mvzx6nf.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2795,7 +2795,7 @@
     "category": "Sci-Fi",
     "prompt": "Hyperrealistic cinematic portrait sitting behind the wheel of a damaged dusty vehicle in a ruined city, one hand gripping the wheel and the other holding a lit cigarette out the window, messy wind-blown hair, gritty raw emotionally heavy post-apocalyptic survivor mood.",
     "imageUrl": "https://cdn.bananaprompts.xyz/af2d79ac-027d-4613-8431-3dd1bf9272c6/4c02dd7a-badc-4602-8cb3-5818b65fc3d4.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2884,7 +2884,7 @@
     "category": "Sci-Fi",
     "prompt": "Full-body anime cyberpunk portrait wearing a futuristic exosuit with glowing neon blue accents and sharp angular armor, dark neon-lit cyberpunk lab with holographic screens and floating data, expressive anime-style eyes, dynamic lighting, cinematic cyberpunk mood.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/2ca723ec-56ef-413f-bc77-4b5b2705883a/1771118635821-4xa9nmypyrp.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -2897,7 +2897,7 @@
     "category": "Sci-Fi",
     "prompt": "Full-body anime cyberpunk Crimson Protocol overload, exosuit fracturing violently with bright red neon energy bursting through wide cracks, glowing fractures across face jawline and eyes, piercing red beam-like eye glow, red digital warnings and distorted holograms, sparks and micro-explosions.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/2ca723ec-56ef-413f-bc77-4b5b2705883a/1771129372710-c8qmd3wgmga.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3000,7 +3000,7 @@
     "category": "Sci-Fi",
     "prompt": "Cinematic full-body portrait standing confidently in an empty urban courtyard, black oversized hoodie with bold text and hood up, dark sunglasses, gray cargo pants, transformed into the Stranger Things Upside Down world with drifting spores and twisted black vines, moody blue-red lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/847737eb-68be-4332-84c1-2bbee2f44a2f/1767261813548-q6zl18rb5c.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3052,7 +3052,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic cinematic 8K photograph wearing a heavily customized battle-damaged War Machine suit painted in metallic matte black, large white Punisher skull emblem with glowing intense neon blue eyes, golden sunset over Rio de Janeiro, Sugarloaf Mountain and Guanabara Bay.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/dbcbb169-cc0f-4eb2-a39b-b350d1821757/1764109387345-s9u28lgeozl.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3065,7 +3065,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic 8K cinematic portrait as a Free Fire trainer, centered and posing confidently, surrounded by friendly Free Fire characters Adam Hayato DJ Alok and Crono interacting playfully, vibrant sunlit training ground, spectacular sunset sky, epic adventurous training atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/23d5b127-cdaf-4ea3-8b8c-8ebdf2932b9f/11f5f4d9-fbdd-4b4e-b8b5-3c503e405e09.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3078,7 +3078,7 @@
     "category": "Sci-Fi",
     "prompt": "Cinematic full-body portrait standing confidently in an empty urban courtyard, black oversized hoodie with bold text and hood up, dark sunglasses, gray cargo pants, transformed into the Stranger Things Upside Down world with drifting spores and twisted black vines, moody blue-red lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/847737eb-68be-4332-84c1-2bbee2f44a2f/1767261863188-900uuybzlqv.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3091,7 +3091,7 @@
     "category": "Sci-Fi",
     "prompt": "A female fantasy elf character against a dark featureless background, pale porcelain-like skin, striking turquoise almond-shaped eyes, long flowing white or silver hair styled in a high ponytail, distinctly pointed ears, delicate silver and gold jewelry, high fantasy elegance.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/c31b9227-18fc-4c3e-a4fc-53016bb935ea/1774549299417-7c9399nswrk.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3117,7 +3117,7 @@
     "category": "Sci-Fi",
     "prompt": "Cinematic ultra-high-resolution 4K image of an Iron Man Mark XXII suit made of real metal painted in Brazilian army-style camouflage, heavily damaged and charred by rifle fire, helmet removed revealing the user's face, heroic pose, favela in Rio de Janeiro at dusk, dramatic lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/dbcbb169-cc0f-4eb2-a39b-b350d1821757/1764104839036-a84fvulvu4r.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3130,7 +3130,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic cinematic anime-style portrait as an intimidating confident duelist, holding Yu-Gi-Oh style cards with backs visible, soft electric blue glow reflecting on face and skin, dark high-collar futuristic duelist coat, advanced duel disk on arm, dramatic movie poster lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/263893ab-7a97-4330-a1d3-98a2f6ce84d4/1777234884611-889nzm5d6su.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3182,7 +3182,7 @@
     "category": "Sci-Fi",
     "prompt": "Photoreal 8K portrait of a female void-lotus ronin operative in sleek midnight armor overlayered with flowing nano-fabric petals, plasma katana glowing soft orchid-purple, compact tactical pistol resting in the off-hand, cinematic composition with shallow depth of field, cosmic backdrop.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a0b38264-ad08-47d7-89ef-b9d6732bb336/1765352902284-gwbg1pwgrsf.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3260,7 +3260,7 @@
     "category": "Sci-Fi",
     "prompt": "Ultra-realistic cinematic portrait wearing an authentic Moon Knight-inspired white suit with intricate mummy-bandage textures and metallic gold accents, looking downward with an intense emotional expression, tightly gripping the glowing golden crescent emblem, dramatic moody lighting, temple ambience.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/e876b55b-7622-4561-abed-462a432489d7/1782972542855-qste2ajs1ar.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3273,7 +3273,7 @@
     "category": "Sci-Fi",
     "prompt": "Young man wearing an astronaut suit in space, planets and stars background, epic sci-fi, cinematic lighting, depth of field, DSLR, ultra realistic, 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a2909a2c-363b-4c41-9767-40d24f888f9d/1777261902215-6ol8ihdwrc7.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "sci-fi",
@@ -3299,7 +3299,7 @@
     "category": "Dark/Moody",
     "prompt": "Man dressed in black sitting on a classic wooden chair, long hair blown gently by the wind, background of fire and golden-red embers, dramatic bold atmosphere, confident calm expression, cinematic red lighting from below and the right, symmetrical composition, sharp focus on the face, sense of inner strength, 9:16, 8K UHD, ultra realistic, editorial style portrait photography.",
     "imageUrl": "https://cdn.bananaprompts.xyz/f5b8142b-07f2-4841-877a-faa43ba7d3c8/428c1954-32b5-4998-8957-9f7fd2dc3c75.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3311,7 +3311,7 @@
     "category": "Dark/Moody",
     "prompt": "Recreate scene as a half-length male portrait sitting and leaning slightly forward, right arm crossing the body, serene confident enigmatic expression, dark sophisticated black blazer over black shirt, neatly groomed hair, sunglasses, studio Rembrandt-style directional lighting, smooth neutral dark gray background, black and white refined editorial portrait, vertical 1080x1920.",
     "imageUrl": "https://cdn.bananaprompts.xyz/fa85b14b-1b1e-4374-8ee1-b915de48d811/ac9fa2f0-8733-4d6f-9c4e-072acf246630.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3347,7 +3347,7 @@
     "category": "Dark/Moody",
     "prompt": "Convert image so a toddler sits in the center of a high-backed armchair in a minimalist monochromatic studio, burnt-rose seamless background, dressed as a bridesmaid with a white jeweled crown, clean white shoes not touching the floor, hands gently clasped, soft even studio lighting, ultra-high-resolution elegant modern haute-couture portrait style.",
     "imageUrl": "https://cdn.bananaprompts.xyz/33eb7dd7-bef7-450c-a52c-9a7ca134b625/c48d8014-70ac-4a6c-ad51-c4fd8223594c.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3395,7 +3395,7 @@
     "category": "Dark/Moody",
     "prompt": "Premium studio-grade monochrome portrait seated confidently on a minimal cube stool, legs apart, hands interlocked, sharp tailored black double-breasted suit with crisp white shirt no tie, dramatic soft-edge key light, smooth gradient grey backdrop, powerful elegant composed mood, GQ-style luxury editorial, full-body cinematic tone.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/0e7ddc46-44d9-42e4-99b1-548068df6b04/1764683372321-7ecu3nwlpb.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3467,7 +3467,7 @@
     "category": "Dark/Moody",
     "prompt": "Realistic full-body portrait wearing a dark charcoal black pinstripe double-breasted suit with gold buttons and red inner shirt, elegant formal styling, natural body proportions, confident standing pose one hand in pocket, elegant dark studio backdrop, premium fashion photoshoot look.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/7e3563b7-8f5a-4564-9bf1-a68b0b7dc32b/1774376044973-k6x7w149n8.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3479,7 +3479,7 @@
     "category": "Dark/Moody",
     "prompt": "Photorealistic cinematic movie poster of a battle-hardened man in a sharp black suit with a loosened tie, face bruised and bloodied, cold intense expression, surrounded by dozens of hands pointing guns at him in a circular radiating starburst pattern, dark moody low-key lighting, gritty noir atmosphere, desaturated tones with warm highlights.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/ed057ff7-2a12-4c87-a872-446259d6c728/1775218063504-hqnyisrupe4.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3491,7 +3491,7 @@
     "category": "Dark/Moody",
     "prompt": "Tall brooding man in a tailored dark black suit with loosened black tie blowing in the wind, walking forward with cold confidence, holding a pistol low, dark smoky war-torn urban battlefield with glowing teal and cyan haze, orange fire bursts in the background, low-angle full body shot, moody cinematic teal color grading.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/ed057ff7-2a12-4c87-a872-446259d6c728/1775219072428-3ob1h37nka.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3503,7 +3503,7 @@
     "category": "Dark/Moody",
     "prompt": "High-end editorial cyberpunk portrait, dynamic 3/4 view or angled perspective, head and neck only, industrial fractured metallic transformation with heavy alloy plates and deep cracks, geometric vector-style shards breaking off, cold steel tones with copper fractures, minimalist studio background, dramatic editorial lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/2ca723ec-56ef-413f-bc77-4b5b2705883a/1770775690292-7bbvdy4iq6c.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3515,7 +3515,7 @@
     "category": "Dark/Moody",
     "prompt": "Man sitting on the ground with back against a building wall, looking to the left, dark black V-neck T-shirt with necklace, light ripped linen jacket, black torn jeans and black sunglasses, resting elbow on knee holding jaw, mysterious afternoon lighting, close 8K cinematic shot framed from knees to head.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a1dd12d1-12fd-41d3-83a8-454523e2d6f5/1772954511918-fufab66b0bj.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3539,7 +3539,7 @@
     "category": "Dark/Moody",
     "prompt": "Incredibly detailed photorealistic image of a romantic tender moment between a couple, woman with elegant upswept hair adorned with gold ornaments wearing a magenta bralette top, man in a charcoal open-collared shirt, lounging together on a textured blanket beneath a star-studded night sky revealing the Milky Way, warm gentle glow, serene romantic atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/69843287-d086-455f-9759-d22f464c82c3/1783259309210-2jrgo67mw7y.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3551,7 +3551,7 @@
     "category": "Dark/Moody",
     "prompt": "Professional black and white studio couple portrait 9:16, man in the foreground right side with woman behind him peeking over his left shoulder, cheeks nearly touching, man looking left with brooding expression, woman looking directly at camera with confident gaze, ultra high quality facial detail with every hair strand and pore visible.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/62d7fcdf-af39-41aa-bba2-3ade96cf3f10/1780663267509-lmdxgx7j3cf.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3659,7 +3659,7 @@
     "category": "Dark/Moody",
     "prompt": "Hyperrealistic portrait holding a lit incandescent lamp, surrounded by metal chains, dark atmosphere with contrast between amber lamp light and fair blue-gray background, damp loose hair, skin illuminated by golden reflection, intense mysterious expression, cinematic close-up direct gaze, dark industrial environment with light mist, 85mm lens, high contrast deep shadows, 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/0389052b-6b23-403e-9a1c-a41b5106e382/8ab21147-3454-4553-aa64-9737a7e5b6f6.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3671,7 +3671,7 @@
     "category": "Dark/Moody",
     "prompt": "Highly realistic fantasy portrait as a medieval warrior standing in a snowy battlefield, fiery gaze looking down at sword, thick black fur cloak over dark armor, holding a large longsword vertically with both hands point down, falling snowflakes, cold cinematic heroic solemn atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/84adaccc-427d-4823-be3e-1ee7016e3db2/edb5be33-8353-4098-8e9b-cfee97c98fd1.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3683,7 +3683,7 @@
     "category": "Dark/Moody",
     "prompt": "Professional studio low-key portrait, confident determined expression head slightly tilted down, black V-neck t-shirt, butterfly lighting setup with hair rim light and faint background light, subtle haze atmosphere, medium format camera high contrast cinematic sharp focus, soft shadows, 85mm lens hyper-realistic detailed facial features.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ea78a09f-a3bb-472b-a7c1-0e93c7661e8d/82f1edc2-5d9b-473b-918d-4b4183f7086d.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3695,7 +3695,7 @@
     "category": "Dark/Moody",
     "prompt": "Stylish South Asian man standing in a confident full-body pose, white t-shirt, half-white cargo jacket, dark gray cargo pants, sneakers, square dark luxury sunglasses, glossy white Mercedes-Benz G-Wagon with nameplate and black-and-red sport motorcycle nearby, outdoor road extremely foggy misty atmosphere with large tree silhouette, high-end dramatic moody luxurious fashion portrait.",
     "imageUrl": "https://cdn.bananaprompts.xyz/d19290ea-4dbe-4ab2-8158-8cfdf743fbcf/dbb93281-5eec-4e19-a282-78f73ab9e8a0.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3707,7 +3707,7 @@
     "category": "Dark/Moody",
     "prompt": "High-contrast black-and-white professional portrait of a confident business professional seated in a leather executive chair, well-fitted black suit with crisp white shirt no tie, rectangular eyeglasses, hand resting near chin looking slightly off-camera, minimalist office setup with laptop, soft directional studio lighting, luxury corporate editorial aesthetic.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/db4d8932-b194-4ef0-83c8-4841c88e0a93/1766932913800-chwqj1tjnd5.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3731,7 +3731,7 @@
     "category": "Dark/Moody",
     "prompt": "Lexus LX in pure red-black with scarlet accents, aggressive glossy-matte finish, laser-etched side decals, red center-lock race wheels, clean side-profile silhouette with black sculpted aero kit, reflective shallow water surface for cinematic mirror effect, magazine-grade balancing raw aggression with refined elegance, Lexus crest editorial branding.",
     "imageUrl": "https://cdn.bananaprompts.xyz/57d8ff31-3e6a-4681-806c-0104cfc088a4/6cb53c62-6a86-4261-b5b2-096f64fe849a.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3755,7 +3755,7 @@
     "category": "Dark/Moody",
     "prompt": "Man taking a selfie in a mirror holding a DSLR camera with right hand, black t-shirt and black jeans, black watch on left wrist, low lighting dark atmosphere, black and white image.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/e8f90ab3-d46d-43fd-a801-a2e39641fdf8/1764350664531-eobrk2krhaj.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3767,7 +3767,7 @@
     "category": "Dark/Moody",
     "prompt": "Gostaria que voce atuasse como profissional em prompt.",
     "imageUrl": "https://cdn.bananaprompts.xyz/06815cbe-75c7-425c-8990-3a80522a69d0/7eafea39-d503-4373-86a3-601e5533f6d5.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3827,7 +3827,7 @@
     "category": "Dark/Moody",
     "prompt": "Shot on a Hasselblad-style camera capturing an athletic muscular man with confident enigmatic expression seated in a plush contoured leather seat of a vintage midnight-blue luxury sports car, ribbed white tank top and premium denim jeans, dramatic blue-hour lighting with distant twinkling city skyline, hyper-realistic skin and fabric texture, film grain aesthetic.",
     "imageUrl": "https://cdn.bananaprompts.xyz/40ce80ff-9ca3-4e3c-9c3f-ae7ccd157763/bf351f86-4950-4f62-900d-7fad555590fb.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3863,7 +3863,7 @@
     "category": "Dark/Moody",
     "prompt": "Young woman with long wavy black hair, oversized cream knit sweater and light brown plaid pleated mini skirt, standing on a shaded pathway surrounded by tall leafy green trees, holding a large bouquet of bright orange roses wrapped in newspaper, reflective melancholic gaze, soft golden autumn sunlight filtering through the canopy, warm vintage dreamy poetic atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/73e04f37-6023-4800-84b5-812f0b3fd458/1763207977068-74gd9i0zo2u.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3875,7 +3875,7 @@
     "category": "Dark/Moody",
     "prompt": "Hyper-realistic cinematic action shot of a fierce warrior in detailed ornate red and black plate armor, holding a large metal-rimmed shield with flaming arrows embedded glowing with orange fire and sparks, gripping a medieval sword, intense battle-ready expression with soot smudges, dark hair in a messy high ponytail blowing in the wind, dark smoky battlefield with embers, 8K high-contrast movie poster aesthetic.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a19e106b-fcad-49e7-b89b-7d7255f4f5aa/1774765818244-y34w6j3sypf.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -3947,7 +3947,7 @@
     "category": "Dark/Moody",
     "prompt": "Underground parking garage with dim lighting, white corset with red circles, ruffled miniskirt, lace gloves, stockings, white high heel boots, holding red balloons, intense expression, moody Halloween-style scene.",
     "imageUrl": "https://cdn.bananaprompts.xyz/2c5c9f0e-aadc-43d9-b87f-0da2bfe9e437/0179a50a-2200-4241-86a4-6d1e590e4804.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4019,7 +4019,7 @@
     "category": "Dark/Moody",
     "prompt": "Low-angle wide-lens cinematic shot from the shadowed floor of a gargantuan skeletal ribcage transformed into a brutalist industrial city, colossal porous white bone arches, glowing orange industrial pipes, pulsing blue bio-electric elevator shaft, hyper-realistic 16K industrial grime moody lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/4b0ed745-4d2a-4a8b-a582-22d78f7080c0/1778358061395-d0i34tww41d.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4031,7 +4031,7 @@
     "category": "Dark/Moody",
     "prompt": "Photorealistic 8K image of a man whose body is disintegrating into thick smoke and ash rising upward, head tilted back eyes closed expression of agony and transcendence, dramatic high-contrast cinematic lighting, dark moody background, 4:5 aspect ratio.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/4d9a50d9-5d97-4f67-9164-88cfa12a516a/1775024031085-gd49pqz6627.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4043,7 +4043,7 @@
     "category": "Dark/Moody",
     "prompt": "Cinematic black and white photograph with faint nicotine-yellow and rust-red tones, interior of an old decaying house with a wooden staircase, standing halfway up in a dark hooded jacket, somber introspective expression, chiaroscuro film-noir lighting evoking existential dread and haunting beauty.",
     "imageUrl": "https://cdn.bananaprompts.xyz/9f3db513-1c7c-4fde-bef3-831ed70a80ac/59aa9faf-9040-4a98-a9a7-36c1f3c18fa6.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4067,7 +4067,7 @@
     "category": "Dark/Moody",
     "prompt": "Black and white noir portrait, spiky white hair, calm confident expression, round sunglasses reflecting long-exposure light trails in red orange and blue, clean background, strong chiaroscuro crisp highlights, sophisticated cinematic composition.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/2ca723ec-56ef-413f-bc77-4b5b2705883a/1771843278458-f8ky4calri.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4103,7 +4103,7 @@
     "category": "Dark/Moody",
     "prompt": "Musician crouched playing a red bass guitar on stage, illuminated by bluish neon-tinted lights wrapped in a light haze, dark shirt and white sneakers, soft white light reflections, vibrant blue-toned atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/c80e66a8-586f-484e-8c25-daa7f2be2451/be7bc0ff-be46-4b53-9571-b4f1d9717626.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4163,7 +4163,7 @@
     "category": "Dark/Moody",
     "prompt": "Very realistic up-close cinematographic portrait of an elegant mysterious man looking directly at camera, small round black sunglasses, lower face partially covered by thick dark jacket collar pulled with hand, silver ring visible, dramatic professional studio lighting, luxury fashion editorial photography, 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a1dd12d1-12fd-41d3-83a8-454523e2d6f5/1773733362959-8eiz1uo107k.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4271,7 +4271,7 @@
     "category": "Dark/Moody",
     "prompt": "High-quality 3D cartoon-style illustration of Manchester United football players celebrating joyfully in red kits in a changing room while opposing Arsenal players sit sad and crying nearby, Pixar-style vibrant colors, humorous exaggerated proportions, lighthearted football banter mood, vertical 9:16.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/e82004f2-c08b-49b0-8b94-331680d502e1/1769572663278-oqpvz9zrl3.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4283,7 +4283,7 @@
     "category": "Dark/Moody",
     "prompt": "Portrait depicted as a hacker in a dark rainy urban environment strongly in the style of Mr. Robot, hooded sweatshirt, computer screen reflecting soft green code onto the face, dramatic low-contrast lighting, grainy cinematic noir aesthetic, sense of isolation and surveillance.",
     "imageUrl": "https://cdn.bananaprompts.xyz/d58848eb-9617-4fce-bc0d-6aae88a5a436/ce7f755f-f9b1-4e70-be57-f1689e20e7de.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4295,7 +4295,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic cinematic 8K photograph of a man with short dark hair and beard, sweaty and dirty from battle, standing on a debris-strewn concrete slab above a favela, heavily customized battle-damaged War Machine suit in matte black with a glowing blue Punisher skull emblem, golden sunset over Rio de Janeiro with Sugarloaf Mountain.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/dbcbb169-cc0f-4eb2-a39b-b350d1821757/1764109387345-s9u28lgeozl.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4331,7 +4331,7 @@
     "category": "Dark/Moody",
     "prompt": "Premium ultra-luxury 4K vertical wallpaper for smartphone lock screen, romantic couple standing close and emotionally connected framed lower in the composition, deep black minimal background, high-fashion formal outfits, soft cinematic lighting, natural realistic eye expression, elegant timeless luxury aesthetic.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/62d7fcdf-af39-41aa-bba2-3ade96cf3f10/1766304854158-a3jxxneeyxk.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4343,7 +4343,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic cinematic close-up half-body shot sitting powerfully on a massive Ghost Rider-inspired bike with wheels blazing orange flames on a dark city street, sharp black leather jacket with metallic shoulder spikes, black leather cargo pants, confident glowing expression.",
     "imageUrl": "https://cdn.bananaprompts.xyz/c0e8f47b-a9cc-4a12-81cb-c2d64e379a0a/ee0d8375-ce67-4e5a-a676-1f4fee0356bf.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4379,7 +4379,7 @@
     "category": "Dark/Moody",
     "prompt": "Black and white portrait with intense expression and entreabiertos lips, holding the collar of a thick white knit sweater beneath the chin with both hands, long straight black voluminous hair, dramatic light from the right creating deep shadows on the left side, direct captivating pose.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/58fb1545-0b5a-40b5-ad20-a9567dbdefc9/1766520663606-xcz4kre44tc.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4415,7 +4415,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic cinematic dark poster, dramatic over-the-shoulder pose, camera slightly behind shoulder 90-45 degree side profile facing right, strong rim light outlining messy textured hair and sharp jawline, deep black background with only face edges glowing, light brown round sunglasses with silver rims.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/ff0ce36a-9e97-4f44-86fb-b046007a9ece/1778907433409-98xmwobxom7.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4427,7 +4427,7 @@
     "category": "Dark/Moody",
     "prompt": "Hyper-realistic close-up portrait with chiaroscuro lighting, one half of the face illuminated by a harsh cool-toned rim light while the other half swallowed in deep velvety black shadow, visible skin texture and intense gaze, 85mm lens f/1.8, cinematic moody dramatic mood, 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/0fe763e4-e33c-4853-ac42-9d7a38cd12ef/1777933775390-jl6ezsr0tx.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4439,7 +4439,7 @@
     "category": "Dark/Moody",
     "prompt": "Melhor imagem do mundo.",
     "imageUrl": "https://cdn.bananaprompts.xyz/29529fca-e570-4e7b-83dc-a5870ec7c253/0117fb0e-612a-41b8-81e3-cc7d6d85baa8.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4451,7 +4451,7 @@
     "category": "Dark/Moody",
     "prompt": "Majestic figure reborn from glowing digital ashes, body half human half hologram, surrounded by rising neon flames in maroon and gold symbolizing rebirth through technology, soft blue holographic light, cinematic glow, glowing 'S_ONE' text behind, ultra-detailed 8K, vertical 9:16 futuristic atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/f5b8142b-07f2-4841-877a-faa43ba7d3c8/fd2e5a53-9659-4cee-a4d1-ea916c281cdb.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4475,7 +4475,7 @@
     "category": "Dark/Moody",
     "prompt": "Hyper realistic ultra detailed close-up portrait showing only the left side of the face submerged underwater, eye in pin-sharp focus, macro perspective with visible skin pores and wet eyelashes, suspended droplets and bubbles, golden light rays creating caustic patterns, surreal dreamlike cinematic atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/6a8efaf2-dbec-4e64-b7fe-d8027a301786/ac0a2c16-d6d0-43a8-a4f9-4440db84bfc5.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4499,7 +4499,7 @@
     "category": "Dark/Moody",
     "prompt": "Dramatic ultra-realistic close-up in black and white, high-contrast cinematic side lighting, round reflective sunglasses reflecting a city skyline, gazing confidently upward into a dark void, minimalist black background, 4K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/693ae710-e153-4dee-af39-11cdc8475f30/24d3d5f5-2492-4a44-ac10-e1c0a98afd62.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4547,7 +4547,7 @@
     "category": "Dark/Moody",
     "prompt": "Male portrait in black and white editorial magazine style, sitting on a sofa with confident introspective expression looking directly at camera, hand resting on chin, light shirt with buttons undone, well-groomed beard and hair, soft lateral lighting creating contrast, sophisticated cinematic monochrome style.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/58fb1545-0b5a-40b5-ad20-a9567dbdefc9/1766797086409-du9sdb181tb.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4559,7 +4559,7 @@
     "category": "Dark/Moody",
     "prompt": "Cinematic portrait in black and white, 35mm film look with fine grain, middle-aged man with short haircut and gray beard standing close to a window in a dark polo shirt beneath a black military-style jacket, faint double reflection on the glass, introspective somber surreal Lost Highway atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/9f3db513-1c7c-4fde-bef3-831ed70a80ac/79bd614f-cc45-43d2-b7a9-8922c32fc2d6.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4595,7 +4595,7 @@
     "category": "Dark/Moody",
     "prompt": "Hyperrealistic cinematic close-up portrait with icy white hair, frost-covered eyebrows, shining light blue eyes leaning close at an oblique angle, falling snowflakes frozen on hair and face, intense mysterious focused expression, dark high-collared winter cloak, cool bluish backlight, 8K epic fantasy realism.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/b2b3cf14-caaf-4320-948a-e92897db31a3/1764305213372-6t0ka1frnj.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4619,7 +4619,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic black and white cinematic portrait sitting leaning forward elbow resting on a chair, hand touching hair, intense contemplative expression, dramatic window light casting geometric shadows across face and knit sweater, strong chiaroscuro, Leica portrait style, 85mm lens, 8K detail.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/949c2260-de9c-4f63-a54e-65b557917f57/1776519995212-4ppkvwves0b.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4643,7 +4643,7 @@
     "category": "Dark/Moody",
     "prompt": "Dark-antihero with messy hair and sharp intense eyes, ruthless intelligent slightly morally ambiguous expression, long worn black coat with faintly glowing ancient rune patterns, massive guillotine-blade-shaped sword pinned into the ground beside him, dramatic high-contrast lighting, fractured stone pillars and dust background, dark fantasy realism, 2:3.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/fcfc8e1f-3564-4186-9252-17bea6725403/1765784075718-73awqc9fmz3.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4739,7 +4739,7 @@
     "category": "Dark/Moody",
     "prompt": "Iconic black-and-white historical 1930s-style photograph, dramatic side profile giving a passionate speech, mouth open shouting, arm raised in a forceful salute gesture, brown uniform jacket with an armband, theatrical stage lighting with high contrast and deep shadows, vintage newsreel propaganda photography style, 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/bda8335a-d905-4388-b38e-4baeb1706a75/1770382693484-7lges2cvrpd.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4787,7 +4787,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic full-body portrait casually seated on the floor indoors leaning against a plain off-white wall with sunlight streaming in, black crew-neck t-shirt with open faded gray denim puffer jacket, distressed black jeans and white sneakers, relaxed knee-bent pose.",
     "imageUrl": "https://cdn.bananaprompts.xyz/802a7b47-0c63-4074-bd11-01866e5d259d/397f8f87-c3c6-4f52-b11b-a2d2c1a42fd0.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4799,7 +4799,7 @@
     "category": "Dark/Moody",
     "prompt": "Manga-inspired street-art-style portrait standing with powerful confidence against a vibrant city backdrop of abstract kanji and bold graphic textures, layered silver jewelry, fur-collared coat over dark green dress, artistic black tattoos, mirrored orange sunglasses reflecting a burning cityscape, explosive graphic background, urban rebellious mood.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/1ac688eb-d807-44c8-af33-716d37f71414/1769108272377-j7c66l9oa6n.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4811,7 +4811,7 @@
     "category": "Dark/Moody",
     "prompt": "8K hyper-realistic photo posing joyfully and gracefully, sleek black backless dress with thin straps, holding a large bouquet of white roses wrapped in black paper, hair tied in a neat ponytail, black high-heeled sandals, modern house terrace at night with warm ambient lighting, luxurious intimate cinematic atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/32b06b32-de39-4ce3-a760-da4c7a591a25/763730f1-ae95-424e-a102-a8ce8208b049.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4859,7 +4859,7 @@
     "category": "Dark/Moody",
     "prompt": "Handsome brave man with a serious expression, wearing glowing shining futuristic armor with a sword and glowing shield, one foot on a tree trunk in a burning forest environment, journalistic gritty realistic photography style, no anime features, whole body 8K HDR, 9:16.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/b2b3cf14-caaf-4320-948a-e92897db31a3/1766705384350-y6nxi7g7dyh.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4895,7 +4895,7 @@
     "category": "Dark/Moody",
     "prompt": "Retro black and white photographic portrait styled after James Stewart lighting, strong key light from the left with soft fill on the right, neutral gray blurred background, direct gaze with a slight contained smile, dark two-button suit white shirt and polka-dot tie, hair impeccably combed back.",
     "imageUrl": "https://cdn.bananaprompts.xyz/12011f83-2f11-4890-8111-a4fb50fd9dcb/7d1299e2-3326-4804-ad7b-5a0adf55c973.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -4979,7 +4979,7 @@
     "category": "Dark/Moody",
     "prompt": "POV shot inside an abandoned television studio, flashlight beam revealing a lifeless costumed character character collapsed on the floor, old dirty and neglected worn fabric, dusty abandoned filming equipment and cables, photorealistic handheld flashlight lighting, found-footage documentary aesthetic.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a7bd7cc4-e1c9-412b-8f46-fddcbcb8606e/1766837505043-h10zwvuly8.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5051,7 +5051,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic high-detail 8K black-and-white portrait, black suit and black shirt with a black coat draped over shoulders, sitting on a cafe chair, cinematic dramatic monochrome style, sharpness texture detail lighting and contrast improved, original pose and details preserved.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/d1c1f1a9-617c-4b31-a06f-63ed75b19343/1765397416181-fzjhtwuaiwk.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5063,7 +5063,7 @@
     "category": "Dark/Moody",
     "prompt": "Hyperrealistic cinematic photograph on a dimly lit underground subway platform, body positioned at a slight slant angle, direct piercing gaze into camera, elegant long black coat, vibrant yellow train rushing past in the background as a dynamic streak of motion blur, warm moody atmospheric station lighting, ultra-detailed cinematic fashion editorial.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/e0318242-88af-4664-8fe5-0bbb927729db/1770096380708-d8x7lxje0y7.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5099,7 +5099,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic 8K cinematic artwork featuring two ornate baroque silver frames floating in space, top frame figure emerging from roaring flames in a crimson suit, bottom frame figure transformed into ice-blue with frost crystals, collision point creating explosive steam and ice shards, photorealistic particle physics.",
     "imageUrl": "https://cdn.bananaprompts.xyz/df1890a5-1e00-4c25-8c5f-d19e349e2374/6161267b-1381-4b80-94de-372e59dd0cb4.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5111,7 +5111,7 @@
     "category": "Dark/Moody",
     "prompt": "Hyper-realistic 8K prime lens Arctic scene, sitting half-submerged in a circular hole cut into thick frozen ice surrounded by a vast white-blue landscape, arms stretched relaxed along the ice edge, black rose tattoo visible, thin silver chain, soft polar afternoon light, discipline and composure in the frozen stillness.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/b2b3cf14-caaf-4320-948a-e92897db31a3/1764851713240-1b0hmuro2iv.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5123,7 +5123,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic black-and-white cinematic portrait vertical 9:16, sitting on the floor in dramatic moody lighting, thin fine-textured black turtleneck knit top, black tailored mom-fit trousers with pure white sneakers, messy voluminous cinematic hair, emotional introspective seductive confident mood, luxury fashion editorial 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/62d7fcdf-af39-41aa-bba2-3ade96cf3f10/1780977684613-78y4w9r8qkf.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5159,7 +5159,7 @@
     "category": "Dark/Moody",
     "prompt": "Moody powerful CEO aesthetic in a black suit standing confidently, dramatic lighting and a dark luxury office vibe.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/0e54363f-96bc-454f-9d60-cee4e00b560d/1763592745296-4zdwi2049c3.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5195,7 +5195,7 @@
     "category": "Dark/Moody",
     "prompt": "Man seated in a grand ornate dark armchair, dark trench coat crisp suit and distinctive round sunglasses, hands extended offering a red and a blue pill, dark sterile room dominated by cascading green digital code symbolizing a simulated reality, dramatic shadows.",
     "imageUrl": "https://cdn.bananaprompts.xyz/0ed0fceb-7139-4fc5-9252-7cc31109959e/8c4a5db9-fce5-4f8e-9d13-2987d30875c6.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5231,7 +5231,7 @@
     "category": "Dark/Moody",
     "prompt": "Photorealistic detailed portrait transformed into Tommy Shelby from Peaky Blinders, icon 1920s tweed three-piece suit, white high-collar shirt, black silk tie, flat cap tilted forward, misty industrial 1920s Birmingham street at dusk with dim gas lamps, dramatic volumetric lighting, high resolution 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/2f4083aa-a8bf-460d-8542-0efe0b9eed62/1766770556186-llhj9ssu83.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5279,7 +5279,7 @@
     "category": "Dark/Moody",
     "prompt": "High-end personal portfolio landing page hero section, cinematic sci-fi style, dark background with neon cyan and purple accents, confident standing pose, cinematic rim lighting with volumetric depth, left-aligned hero composition, clean hierarchy premium spacing modern typography, 16:9 ultra-detailed premium quality website design.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/417254cd-995d-420f-8791-dfb33c70cf08/1768061146731-5r2kaj9um3l.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5387,7 +5387,7 @@
     "category": "Dark/Moody",
     "prompt": "Vibrant meriah party scene, two people having fun with sweaty glistening skin, striped shirt pouring a golden drink from a bottle into the other's mouth, explosive colorful purple blue and red club lighting with smoke effects, riotous energetic atmosphere, high resolution and sharp 16K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/ea914071-bdb5-404e-942f-a52ffe82a210/1763186142181-e5tgq9tde1.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5399,7 +5399,7 @@
     "category": "Dark/Moody",
     "prompt": "Young man sitting in a dark-toned living room with soft natural window light, sleeveless dark gray top, black earring diamond necklace and metal bracelet, mug of coffee with soft steam, writing song lyrics on a carved wooden table with an acoustic guitar on his lap, moody tranquil inspirational cinematic bluish color grading.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/b2b3cf14-caaf-4320-948a-e92897db31a3/1765293147786-rf0lv40rxn.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5459,7 +5459,7 @@
     "category": "Dark/Moody",
     "prompt": "Precise ballpoint pen sketch on a wrinkled paper napkin on a wooden table, glasses beard and turtleneck, deeply melancholy pensive expression looking upward, symbolic elements of a broken crying Earth intertwined mechanical gears a question mark and a rising graph line, handwritten Urdu and English text, cross-hatching fine line art style.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/aea10d77-dc8b-47ed-ac29-30a0a6808c47/1782272502952-pspu1nj51ac.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5471,7 +5471,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic luxury portrait sitting confidently on an elegant dark green velvet sofa, premium all-black three-piece suit with waistcoat and polished black formal shoes, legs crossed, black sunglasses with a subtle confident smile, completely black background, dramatic cinematic lighting, billionaire business magazine cover mood, 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/0de0e88c-48a7-4f0e-808b-177b2b1f4a92/1781166961805-u1128lcghkh.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5507,7 +5507,7 @@
     "category": "Dark/Moody",
     "prompt": "Rough hand-drawn grunge portrait wearing bold red sunglasses and a red jacket, three-quarter view head slightly turned with a subtle confident smirk, expressive cross-hatching pencil sketch style, dramatic shadows, artistic chaotic linework background, black paper texture charcoal and ink strokes, hyper-stylized illustrative poster art.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a896ece4-a695-49a7-a65f-f7c6e7d9d68e/1762959574165-x51asgt142.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5579,7 +5579,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic dreamy Y2K-style portrait, sitting naturally on a bed in striped pajamas next to Pennywise in his iconic overalls and striped sweater, both looking toward a TV in a masculine dreamy bedroom decorated with retro 80s/90s movie posters, dimly lit warm ambient atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/0203f3b2-d321-4108-b73e-26e40549fd91/f15cc2ef-7f52-44c1-beed-ff5eb50d4454.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5591,7 +5591,7 @@
     "category": "Dark/Moody",
     "prompt": "Sitting on the doorstep of an old Lahori building with intricate wooden balconies and carved doors, early winter evening with soft orange streetlights glowing through mist, teal and orange cinematic color palette, fog gently diffused across the street, damp cobblestones reflecting light, calm reflective mood, shallow depth of field.",
     "imageUrl": "https://cdn.bananaprompts.xyz/d02dd440-1540-42b8-8671-97f8ee9dbad6/1775063b-6749-41e1-8301-370a4c957276.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5615,7 +5615,7 @@
     "category": "Dark/Moody",
     "prompt": "A man proposing to his girlfriend on New Year's night moments before midnight, intimate minimalist warm white and soft gold decor, glowing neon '2026' sign in the background, down on one knee holding an engagement ring, woman surprised joyful covering her mouth, gentle spotlight and falling confetti, romantic hopeful cinematic mood.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/a8a1a893-ecec-4d7e-8c05-9b0d73c63627/1766682563484-x5btb3b2n7q.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5627,7 +5627,7 @@
     "category": "Dark/Moody",
     "prompt": "Epic black and white medium shot of a resilient CEO standing confidently at the edge of a high-rise rooftop overseeing a sprawling active cityscape at dawn, hands clasped behind back, minimalist modern suit, powerful silhouette backlighting, ambition solitude and unwavering resolve mood.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/0e54363f-96bc-454f-9d60-cee4e00b560d/1763704781797-slnzt85pw59.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5639,7 +5639,7 @@
     "category": "Dark/Moody",
     "prompt": "Ultra-realistic cinematic close-up of a human eye reconstructed from a reference face, extreme macro framing with a single tear forming at the lower eyelid, symbolic reflected scene of protests with blurred silhouettes distant firelight and smoke inside the iris, somber heavy emotional cold desaturated documentary-style realism.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/62d7fcdf-af39-41aa-bba2-3ade96cf3f10/1770205030683-pl5lgxc1oeo.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5651,7 +5651,7 @@
     "category": "Dark/Moody",
     "prompt": "Hyper-detailed realistic movie poster for Tron: Ares, futuristic neon-lit cityscape with glowing blue lines, form-fitting suit with glowing blue lines and helmet, holding an almost flat metal-and-neon disc in a fight pose, bold stylized glowing blue title lettering, high-tech cyberpunk feel.",
     "imageUrl": "https://cdn.bananaprompts.xyz/0133c9af-5892-49f3-a1db-df49e9ffd04c/65a1a4f0-2f27-4f69-a884-9158627b88f8.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5663,7 +5663,7 @@
     "category": "Dark/Moody",
     "prompt": "Dramatic black-and-white headshot with a moody cinematic atmosphere, high-contrast lighting carving the face with deep shadows and bright highlights, wet as if caught in the rain with irregular droplets across cheeks and forehead, damp hair with strands falling naturally, dark minimal background, raw expressive photographic portrait.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/f4360a33-58aa-4675-95e4-18236e52d99f/1767775741813-4i2fag8h85b.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5675,7 +5675,7 @@
     "category": "Dark/Moody",
     "prompt": "Highly realistic photo standing confidently in a white salwar kameez, holding a baton, full body serious focused look, dramatic strong contrast and soft shadows highlighting the fabric and baton texture, minimal slightly smoky background, cinematic noir black and white atmosphere with sharp details.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/540a705a-ba9c-4061-aac2-c87080dc40a1/1763404713962-xhrcxppp68k.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5687,7 +5687,7 @@
     "category": "Dark/Moody",
     "prompt": "Young man with dark hair and glasses in a puffy jacket over a mustard yellow sweater, low-angle medium shot, dramatic warm and cool lighting sources highlighting a serious expression against angled linear neon lights, shallow depth of field with vibrant abstract blurred background.",
     "imageUrl": "https://cdn.bananaprompts.xyz/aade4ced-0fca-4b62-b70e-fb82e654624f/3e0c1763-e93e-41a5-a490-fa54c491f9e4.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5747,7 +5747,7 @@
     "category": "Dark/Moody",
     "prompt": "Middle-aged ranger or archer standing in a misty enchanted forest bathed in soft morning light, shoulder-length graying hair and neatly trimmed beard, dark green tunic under a brown leather vest with a quiver of arrows and short sword, calm vigilant wise expression, tall moss-covered trees, mystical Lord of the Rings-inspired cinematic style, 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/1f9d7777-e8e8-45b0-b631-d3e1db0b0201/d71d8d1c-a4cf-4058-b4a6-3ced860b8c0d.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5759,7 +5759,7 @@
     "category": "Dark/Moody",
     "prompt": "Confident young man sitting on a deep purple velvet tufted cube stool in a studio setting, fitted black short-sleeve t-shirt white wide-leg trousers and chunky silver sneakers, leaning forward with elbows on knees, calm serious expression, solid rich purple background with a glossy reflective floor creating a mirror reflection, luxury fashion editorial 4K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/71bfaf51-25b7-40a8-99ee-ce32d3c99f67/1771696644905-nyxl3w6408t.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5783,7 +5783,7 @@
     "category": "Dark/Moody",
     "prompt": "Volcanic dusk drama rear three-quarter silhouette against glowing lava flows, thermal bloom and HDR highlights, crane-shot cinematic composition, Land Rover Defender 110 2025 OCTA edition, professional 8K car photography, sharp focus, Instagram format.",
     "imageUrl": "https://cdn.bananaprompts.xyz/d6f237ae-b176-4fb9-83ce-5dde1fda7bc9/fb22997d-9689-4a28-852a-9003fd962d01.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5807,7 +5807,7 @@
     "category": "Dark/Moody",
     "prompt": "High-resolution portrait with platinum blonde hair and ash-grey underlayers blowing in the wind, tech-wear luxury blazer and silver chrome body chains reflecting the environment, volumetric teal rim lights cutting through stage haze, anamorphic lens flares, bleach-bypass color grade, intimate timeless dreamlike atmosphere.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/800c76ba-24c4-43cb-aab7-b6985ab40fad/1763442762400-njeuqe9mf5q.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5819,7 +5819,7 @@
     "category": "Dark/Moody",
     "prompt": "Photo wearing a baseball cap and Ray-Ban sunglasses, white t-shirt tactical cargo pants black-and-white flannel tied at waist, sitting casually on asphalt under a city viaduct against a graffiti-covered concrete pillar, dramatic fisheye low-angle perspective, nighttime metropolis with car light trails, ultrarrealista 9:16 street-style editorial, ultra HD 8K.",
     "imageUrl": "https://cdn.bananaprompts.xyz/898c52b7-a3c2-49be-9368-a7289cc5b6e7/97e32b94-ebdd-4ce8-90e5-858566cfb2ee.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5843,7 +5843,7 @@
     "category": "Dark/Moody",
     "prompt": "Cinematic movie poster in the exact style of The Godfather 1972, close-up portrait in a black tuxedo white shirt and black bow tie with a red rose lapel pin, dark minimalist background with dramatic one-sided chiaroscuro lighting, white puppet hand with marionette strings above bold serif 'The Godfather' title text, vintage 1970s mafia aesthetic.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/79533628-cff5-4eaa-99ae-95c15b36df62/1763538978306-5mt7pj9gmgt.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5855,7 +5855,7 @@
     "category": "Dark/Moody",
     "prompt": "High-contrast black and white editorial portrait, extreme close-up framing facing forward with a slight downward tilt, piercing intense confident direct gaze, flawless 90s high-fashion makeup with winged cat-eyeliner, smooth matte black hijab tightly framing the face, harsh directional chiaroscuro light creating a stark diagonal shadow, 8K photorealistic masterpiece, 3:4.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/420ee4f9-d4b6-42db-9ce9-e74a682cafc1/1773119630619-2vsnvxr05zh.jpg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5867,7 +5867,7 @@
     "category": "Dark/Moody",
     "prompt": "Texting scene, casual conversational message photo.",
     "imageUrl": "https://cdn.bananaprompts.xyz/30ddaf0a-0de5-47ef-94fe-b9b0baf55b32/7f47247b-05c6-4f23-acf7-dfb792dbbd49.jpeg?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "dark-moody"
@@ -5915,7 +5915,7 @@
     "category": "WorldCup",
     "prompt": "Vertical 4K portrait keeping facial identity pose and proportions, replacing top with the authentic official 1994 national team jersey recreated with correct colors collar style sleeve trim and 90s construction, simple atmospheric background with soft lighting, sharp realistic premium look.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/266feef8-bb5d-4954-baff-4bcab8751544/1782508602864-9vv8c6rppfs.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "worldcup"
@@ -5963,7 +5963,7 @@
     "category": "WorldCup",
     "prompt": "Vertical 4K premium football editorial poster featuring the national team manager, dark tailored suit with a crest lapel pin, calm powerful intelligent expression, warm parchment-beige textured paper background with soft stadium amber lights, hand-drawn tactical diagram with formation lines, elegant refined editorial headline.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/266feef8-bb5d-4954-baff-4bcab8751544/1780440828095-w7xgqx5iclg.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "worldcup"
@@ -5987,7 +5987,7 @@
     "category": "WorldCup",
     "prompt": "Vertical 4K premium football editorial poster, player seen from the back wearing the national jersey running or stepping forward with arms slightly outstretched in a clean celebratory pose, dark stadium background with soft crowd blur and cinematic stadium lights, large bold country name typography at top, collectible premium matchday energy.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/266feef8-bb5d-4954-baff-4bcab8751544/1784039659086-nj22udsuobb.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "worldcup"
@@ -6023,7 +6023,7 @@
     "category": "WorldCup",
     "prompt": "Full-body portrait of a young football star walking confidently toward the camera in oversized modern streetwear inspired by national colors, layered hoodie or jacket loose-fit pants statement sneakers chains and a duffel bag, clean high-impact graphic background with paint splashes and halftone patterns, premium youthful luxury streetwear campaign feel.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/266feef8-bb5d-4954-baff-4bcab8751544/1779046547228-yil7kowdf8j.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "worldcup"
@@ -6047,7 +6047,7 @@
     "category": "WorldCup",
     "prompt": "Vertical 4K premium football advertising poster, full-body hero pose standing confidently with one foot resting on a football, slightly low camera angle, natural athletic outfit with soft refined national-color palette across the jacket jersey and shorts, bold clean studio-advertising background with cinematic depth, high-end sports ad campaign lighting.",
     "imageUrl": "https://cdn.bananaprompts.xyz/ai-gallery/266feef8-bb5d-4954-baff-4bcab8751544/1782937975958-psw10agyrc.png?w=3840&q=75",
-    "isPremium": false,
+    "isPremium": true,
     "trending": false,
     "tags": [
       "worldcup"
